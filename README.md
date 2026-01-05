@@ -1,2 +1,3 @@
 # odin-recipes
-this is my first repo for learning html+css+js
+This is a demo project
+For learning HTML + CSS
